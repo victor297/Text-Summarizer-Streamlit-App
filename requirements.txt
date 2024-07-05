@@ -1,4 +1,3 @@
 txtai[all]
 streamlit
 PyPDF2
-llama-cpp-python
